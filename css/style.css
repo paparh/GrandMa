@@ -13,6 +13,7 @@
 body{
     font-family: 'Kaushan Script', cursive;
     background: var(--mainWhite);
+    color: #000;
     color: var(--mainBlack);
 }
 /* global styles */
